@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Carl Friedrich Gauss
 
 # Username (this should match the folder name)
 authors:
-- admin
+- carl-friedrich-gauss
 
 # Is this the primary user of the site?
 superuser: true
